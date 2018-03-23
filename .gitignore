@@ -1,0 +1,5 @@
+.hypothesis
+.pytest_cache
+.~lock*
+__pycache__
+venv
